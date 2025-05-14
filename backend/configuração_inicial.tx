@@ -1,23 +1,9 @@
-backend/
-├── app/
-│   ├── main.py        # Arquivo principal do servidor
-│   ├── models.py      # Definição do banco de dados
-│   ├── routes.py      # Endpoints da API
-├── requirements.txt   # Lista de pacotes necessários
-├── Dockerfile         # Configuraçbackend/
-├── app/
-│   ├── __init__.py     # Marca o diretório como um pacote Python
-│   ├── main.py         # Arquivo principal do servidor
-│   ├── models.py       # Definição do banco de dados
-│   ├── routes.py       # Endpoints da API
-│   ├── config.py       # Configurações gerais (ex.: variáveis de ambiente, banco de dados)
-├── tests/              # Casos de teste
-│   ├── test_routes.py  # Testes para os endpoints
-│   ├── test_models.py  # Testes para o banco de dados
-├── requirements.txt    # Lista de pacotes necessários
-├── Dockerfile          # Configuração para execução em Docker
-├── .dockerignore       # Arquivos/pastas excluídos na imagem Docker
-├── .env                # Variáveis de ambiente (não versionadas)
-├── README.md           # Documentação do projeto
-├── setup.sh            # Script para inicialização do ambienteão para execução em Docker
+LicitaScan/
+│── backend/    # Código do servidor e lógica de IA
+│── frontend/   # Interface do usuário
+│── docs/       # Documentação do projeto
+│── tests/      # Testes para garantir qualidade
+│── examples/   # Exemplos de editais para treinamento
+│── .github/    # Configurações e automações do projeto
+
 
