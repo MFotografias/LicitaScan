@@ -1,1 +1,8 @@
+backend/
+├── app/
+│   ├── main.py        # Arquivo principal do servidor
+│   ├── models.py      # Definição do banco de dados
+│   ├── routes.py      # Endpoints da API
+├── requirements.txt   # Lista de pacotes necessários
+├── Dockerfile         # Configuração para execução em Docker
 
