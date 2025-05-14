@@ -20,4 +20,10 @@ LicitaScan é um projeto open source voltado para a **análise automatizada de e
 Quer fazer parte do projeto? Siga estes passos:
 1. **Clone o repositório:**  
    ```sh
-   git clone https://github.com/seu-usuario/LicitaScan.git
+  git clone https://github.com/seu-usuario/LicitaScan.git
+  --------------------------------------------------------------------------------------------
+   ## 📝 Licença
+Este projeto está sob a licença **MIT**, permitindo que qualquer pessoa use, modifique e distribua o código livremente.
+
+📢 Nos ajude a construir uma ferramenta poderosa para análise de editais! Sugestões e contribuições são sempre bem-vindas! 🔥
+
